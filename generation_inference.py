@@ -25,6 +25,8 @@ import numpy as np
 import os
 import PIL.Image
 
+#this is a file named generation_inference.py
+
 # specify the path to the model
 model_path = "deepseek-ai/Janus-1.3B"
 vl_chat_processor: VLChatProcessor = VLChatProcessor.from_pretrained(model_path)
