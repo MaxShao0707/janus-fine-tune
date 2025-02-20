@@ -1,0 +1,20 @@
+{"messages":[{"role":"user", "content":"红色轿车和白色卡车哪一个离我们近？A.红色轿车, B.白色卡车，请直接给出答案"},{"role":"assistant","content":"A"}],
+"images":"/home/ubuntu/janus_finetune/Janus/fine_tune/images/01.jpg"}
+{"messages":[{"role":"user", "content":"前面的车能直行通过路口吗？A.能 B.不能 请直接回答正确选项的字母，不要回答其他内容。"},{"role":"assistant","content":"B"}],
+"images":"/home/ubuntu/janus_finetune/Janus/fine_tune/images/02.jpg"}
+{"messages":[{"role":"user", "content":"这个场景中的交通灯是什么颜色？请直接用一个单词或数字回答。"},{"role":"assistant","content":"绿色"}],
+"images":"/home/ubuntu/janus_finetune/Janus/fine_tune/images/03.jpg"}
+{"messages":[{"role":"user", "content":"在这张图片中有大客车经过路口吗？请直接用一个单词或数字回答。"},{"role":"assistant","content":"有"}],
+"images":"/home/ubuntu/janus_finetune/Janus/fine_tune/images/04.jpg"}
+{"messages":[{"role":"user", "content":"在图片中有多少个行人？请直接用一个单词或数字回答。"},{"role":"assistant","content":"0"}],
+"images":"/home/ubuntu/janus_finetune/Janus/fine_tune/images/05.jpg"}
+{"messages":[{"role":"user", "content":"前面的车是右转吗？请直接用一个单词或数字回答。"},{"role":"assistant","content":"不是"}],
+"images":"/home/ubuntu/janus_finetune/Janus/fine_tune/images/06.jpg"}
+{"messages":[{"role":"user", "content":"路边的人穿了连帽衫吗？请直接用一个单词或数字回答。"},{"role":"assistant","content":"是"}],
+"images":"/home/ubuntu/janus_finetune/Janus/fine_tune/images/07.jpg"}
+{"messages":[{"role":"user", "content":"在这张照片中对面有几辆车正在开过来？请直接用一个单词或数字回答？"},{"role":"assistant","content":"2"}],
+"images":"/home/ubuntu/janus_finetune/Janus/fine_tune/images/08.jpg"}
+{"messages":[{"role":"user", "content":"在照片中有多少名行人？ A. 0 B. 2 C. 4 请直接回答，只填正确选项的字母，不需要其他内容。"},{"role":"assistant","content":"A"}],
+"images":"/home/ubuntu/janus_finetune/Janus/fine_tune/images/09.jpg"}
+{"messages":[{"role":"user", "content":"这张照片里有多少个垃圾桶？请直接用一个单词或数字回答。"},{"role":"assistant","content":"1"}],
+"images":"/home/ubuntu/janus_finetune/Janus/fine_tune/images/10.jpg"}
